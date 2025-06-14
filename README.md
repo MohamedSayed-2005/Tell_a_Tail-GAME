@@ -205,5 +205,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ---
 
 ## 📞 Contact
-Email: Mostafahany4705@gmail.com <br>
-LinkedIn: www.linkedin.com/in/mostafahany4705
+Email: mohamed.ahmed056@eng-st.cu.edu.eg <br>
+LinkedIn: [www.linkedin.com/in/mostafahany4705](https://www.linkedin.com/in/mohamed-sayed-283948332/)
