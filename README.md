@@ -206,4 +206,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 📞 Contact
 Email: mohamed.ahmed056@eng-st.cu.edu.eg <br>
-LinkedIn: [https://www.linkedin.com/in/mohamed-sayed-283948332/]
+LinkedIn: https://www.linkedin.com/in/mohamed-sayed-283948332/
