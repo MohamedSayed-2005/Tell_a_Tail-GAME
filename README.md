@@ -200,7 +200,7 @@ public class StoryNode {
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Choose-Your-Adventure/blob/8305121000ed88a5529cff9e094abe4216ea0eca/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MohamedSayed-2005/Tell_a_Tail-GAME/blob/main/LICENSE) file for details.
 
 ---
 
